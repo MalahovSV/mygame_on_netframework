@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!--Документ с содержимым инвнторя игрока-->
+<Grid_Items>
+  <Item name ="Armor MK.1">
+    <class>Armor</class>
+    <count>1</count>
+  </Item>
+  <Item name ="AK-103">
+    <class>Weapon</class>
+    <count>1</count>
+    <weight>3,600</weight>
+  </Item>
+  <Item name ="7,62x39">
+    <class>Ammo</class>
+    <name>5,45x39</name>
+    <count>120</count>
+    <weight>0,250</weight>
+  </Item>
+  <Item name ="Boots standart">
+    <class>Boots</class>
+    <count>1</count>
+    <weight>0,600</weight>
+  </Item>
+</Grid_Items>

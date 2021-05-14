@@ -59,15 +59,5 @@ namespace LandsOfTheVoid.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap img_armor {
-            get {
-                object obj = ResourceManager.GetObject("img_armor", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
